@@ -21,8 +21,6 @@ You can find [week details here](https://cs50.harvard.edu/x/2021/weeks/8/)
 - Protocols
 - HTTP
   and other things.
-<br>
-<br>
 
 ### Labs and Home Works of tihs week;
 <hr>
